@@ -1,0 +1,82 @@
+body{
+  background-color:#D6E4E5;
+  padding: 1rem;
+}
+.custom-icon{
+  font-size:25px;
+  font-weight:700;
+  color:000000;
+}
+#custom-text1{
+  color:#6B728E;
+}
+#custom-text2{
+  color:#6B728E;
+}
+#custom-text3{
+  color:#6B728E;
+}
+#custom-text4{
+  color:#6B728E;
+}
+#custom-text5{
+  color:#6B728E;
+}
+.web3-img{
+  max-width:100%;
+}
+.card-head{
+  font-size:3rem;
+  font-weight:bold;
+  font-family: "Roboto";
+  color:#000000;
+}
+.card-text{
+  font-size:1.3rem;
+  font-weight:400;
+  font-family: "Roboto";
+  color:#6B728E;
+}
+.button{
+  background-color:#DC3535;
+  color:#fff;
+}
+/* daily-news card */
+.daily-news-card{
+  background-color:#000000;
+}
+.daily-head{
+  color:#F49D1A;
+  font-size:30px
+}
+.daily-header{
+  color:#fff;
+  font-size:25px;
+  font-weight: 400;
+}
+.daily-text{
+  color:#fff;
+  font-size:16px;
+  font-weight: 200;
+}
+hr{
+  color:#fff;
+  border-width: thin;
+  border-style: solid;
+}
+/* Bottom-card */
+.bottom-img{
+  max-width: 90%;
+}
+.bottom-head{
+  font-size:20px;
+  color:grey;
+}
+.bottom-header{
+  font-weight:bold;
+font-size:22px;
+}
+.bottom-text{
+  font-size:18px;
+  color:grey;
+}
